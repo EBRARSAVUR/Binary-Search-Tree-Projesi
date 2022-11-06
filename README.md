@@ -5,11 +5,11 @@
 Root 5'tir. root'un sağından 7 bulunur. Solunda 5 bulunur.
 
 
-         5
-      /     \
-    3         7  
-   / \       / \
-  1   4     5   8
- / \             \  
-0   2             9
+          5
+        /   \
+       3      7  
+      / \    / \
+     1   4  5   8
+    / \          \  
+   0   2           9
   
